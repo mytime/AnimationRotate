@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RotateAnimation</string>
+    <string name="rotate_me">RotateMe</string>
+</resources>
